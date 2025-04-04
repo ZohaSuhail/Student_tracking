@@ -9,7 +9,7 @@ function Header() {
     return (
         <div className='p-4 shadow-sm border flex justify-between'>
             <div>
-               hii
+               
             </div>
             <div>
                 <Image src={user?.picture || fallbackImage}
